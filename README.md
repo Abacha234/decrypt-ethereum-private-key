@@ -216,6 +216,7 @@ References
 [15]: /UTC--2019-12-17T09-17-16.419911545Z--15d5d89632dc2d185aa27907ad42b1012ef1c982
 [16]: /correct-result
 [17]: https://github.com/ethereum/wiki/wiki/Web3-Secret-Storage-Definition
+
 [18]: https://docs.rs/rust-crypto/0.2.36/crypto/scrypt/index.html
 [19]: https://github.com/csknk/decrypt-ethereum-keyfile
 [20]: https://github.com/DaGenix/rust-crypto/blob/master/src/scrypt.rs
